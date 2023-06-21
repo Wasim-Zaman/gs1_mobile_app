@@ -7,6 +7,7 @@ class URL {
 }
 
 abstract class BaseUrl {
+  // The server is changed to the production server
   // static const String gs1 = 'https://gs1ksa.org';
   static const String gs1 = 'https://gs1.org.sa';
 
